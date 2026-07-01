@@ -1,0 +1,14 @@
+# Auditor output
+audit-report/
+*-report/
+report.json
+report.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
