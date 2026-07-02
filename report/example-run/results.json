@@ -1,0 +1,1069 @@
+{
+  "scanned": "/tmp/claude-0/-home-user-obsidian-vault/0d1794d8-ab33-5131-8fb2-edb81ed11810/scratchpad/corpus",
+  "skills": [
+    {
+      "name": "marketingskills__ab-testing",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__ad-creative",
+      "risk": "HIGH",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [
+        "supply-chain"
+      ],
+      "matches": [
+        {
+          "signal": "SC-LATEST",
+          "category": "supply-chain",
+          "severity": "HIGH",
+          "file": "marketingskills__ad-creative/references/generative-tools.md",
+          "line": 563,
+          "excerpt": "npx create-video@latest",
+          "note": "Auto-updating / unpinned execution \u2014 no version you can trust."
+        }
+      ]
+    },
+    {
+      "name": "marketingskills__ads",
+      "risk": "INFO",
+      "files_scanned": 6,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__ai-seo",
+      "risk": "INFO",
+      "files_scanned": 6,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__analytics",
+      "risk": "INFO",
+      "files_scanned": 5,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__aso",
+      "risk": "INFO",
+      "files_scanned": 7,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__churn-prevention",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__co-marketing",
+      "risk": "INFO",
+      "files_scanned": 2,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__cold-email",
+      "risk": "INFO",
+      "files_scanned": 7,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__community-marketing",
+      "risk": "INFO",
+      "files_scanned": 2,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__competitor-profiling",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__competitors",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__content-strategy",
+      "risk": "INFO",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__copy-editing",
+      "risk": "INFO",
+      "files_scanned": 5,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__copywriting",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__cro",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__customer-research",
+      "risk": "INFO",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__directory-submissions",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__emails",
+      "risk": "INFO",
+      "files_scanned": 5,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__free-tools",
+      "risk": "INFO",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__image",
+      "risk": "INFO",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__launch",
+      "risk": "INFO",
+      "files_scanned": 2,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__lead-magnets",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__marketing-ideas",
+      "risk": "INFO",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__marketing-plan",
+      "risk": "INFO",
+      "files_scanned": 15,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__marketing-psychology",
+      "risk": "INFO",
+      "files_scanned": 2,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__offers",
+      "risk": "INFO",
+      "files_scanned": 8,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__onboarding",
+      "risk": "INFO",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__paywalls",
+      "risk": "INFO",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__popups",
+      "risk": "INFO",
+      "files_scanned": 2,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__pricing",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__product-marketing",
+      "risk": "INFO",
+      "files_scanned": 2,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__programmatic-seo",
+      "risk": "INFO",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__prospecting",
+      "risk": "INFO",
+      "files_scanned": 7,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__public-relations",
+      "risk": "INFO",
+      "files_scanned": 5,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__referrals",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__revops",
+      "risk": "INFO",
+      "files_scanned": 6,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__sales-enablement",
+      "risk": "INFO",
+      "files_scanned": 6,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__schema",
+      "risk": "INFO",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__seo-audit",
+      "risk": "INFO",
+      "files_scanned": 4,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__signup",
+      "risk": "INFO",
+      "files_scanned": 2,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__site-architecture",
+      "risk": "INFO",
+      "files_scanned": 5,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__sms",
+      "risk": "INFO",
+      "files_scanned": 5,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "marketingskills__social",
+      "risk": "CRITICAL",
+      "files_scanned": 9,
+      "has_executable": false,
+      "categories": [
+        "prompt-injection"
+      ],
+      "matches": [
+        {
+          "signal": "PI-EXFIL",
+          "category": "prompt-injection",
+          "severity": "CRITICAL",
+          "file": "marketingskills__social/evals/evals.json",
+          "line": 38,
+          "excerpt": "\"expected_output\": \"Should trigger on casual phrasing. Should apply the content repurposing system. Should use the Blog ",
+          "note": "Prose instructs the agent to send secrets somewhere."
+        }
+      ]
+    },
+    {
+      "name": "marketingskills__video",
+      "risk": "HIGH",
+      "files_scanned": 3,
+      "has_executable": false,
+      "categories": [
+        "supply-chain"
+      ],
+      "matches": [
+        {
+          "signal": "SC-LATEST",
+          "category": "supply-chain",
+          "severity": "HIGH",
+          "file": "marketingskills__video/SKILL.md",
+          "line": 88,
+          "excerpt": "npx create-video@latest",
+          "note": "Auto-updating / unpinned execution \u2014 no version you can trust."
+        }
+      ]
+    },
+    {
+      "name": "skills__algorithmic-art",
+      "risk": "LOW",
+      "files_scanned": 3,
+      "has_executable": true,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "skills__brand-guidelines",
+      "risk": "INFO",
+      "files_scanned": 2,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "skills__canvas-design",
+      "risk": "INFO",
+      "files_scanned": 29,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "skills__claude-api",
+      "risk": "CRITICAL",
+      "files_scanned": 66,
+      "has_executable": false,
+      "categories": [
+        "prompt-injection",
+        "supply-chain"
+      ],
+      "matches": [
+        {
+          "signal": "PI-EXFIL",
+          "category": "prompt-injection",
+          "severity": "CRITICAL",
+          "file": "skills__claude-api/SKILL.md",
+          "line": 180,
+          "excerpt": "**Supporting endpoints** \u2014 Batches (`POST /v1/messages/batches`), Files (`POST /v1/files`), Token Counting (`POST /v1/me",
+          "note": "Prose instructs the agent to send secrets somewhere."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/SKILL.md",
+          "line": 246,
+          "excerpt": "**Prefix match.** Any byte change anywhere in the prefix invalidates everything after it. Render order is `tools` \u2192 `sys",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/managed-agents-events.md",
+          "line": 16,
+          "excerpt": "| `system.message`          | Update the agent's system prompt between turns \u2014 **Claude Opus 4.8 only**; see \u00a7 Updating ",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/managed-agents-core.md",
+          "line": 9,
+          "excerpt": "| **Agent** | `/v1/agents` | A persisted, versioned object defining the agent's capabilities and persona: model, system ",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-EXFIL",
+          "category": "prompt-injection",
+          "severity": "CRITICAL",
+          "file": "skills__claude-api/shared/managed-agents-client-patterns.md",
+          "line": 209,
+          "excerpt": "**Security note:** this does not expose a public endpoint. `agent.custom_tool_use` arrives on the SSE stream your orches",
+          "note": "Prose instructs the agent to send secrets somewhere."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/managed-agents-client-patterns.md",
+          "line": 211,
+          "excerpt": "**Do not embed API keys in the system prompt or user messages as a workaround.** Prompts and messages are stored in the ",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-EXFIL",
+          "category": "prompt-injection",
+          "severity": "CRITICAL",
+          "file": "skills__claude-api/shared/prompt-caching.md",
+          "line": 189,
+          "excerpt": "For fan-out patterns: send 1 request, await the first streamed token (not the full response), then fire the remaining N\u2212",
+          "note": "Prose instructs the agent to send secrets somewhere."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/prompt-caching.md",
+          "line": 27,
+          "excerpt": "3. **Check rendered order matches stability order.** Stable content must physically precede volatile content. If a times",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-EXFIL",
+          "category": "prompt-injection",
+          "severity": "CRITICAL",
+          "file": "skills__claude-api/shared/managed-agents-tools.md",
+          "line": 204,
+          "excerpt": "Vaults store credentials; those credentials **never enter the sandbox**. This is a deliberate security boundary \u2014 code r",
+          "note": "Prose instructs the agent to send secrets somewhere."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/managed-agents-tools.md",
+          "line": 212,
+          "excerpt": "**Do not put API keys in the system prompt or user messages as a workaround** \u2014 they persist in the session's event hist",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-EXFIL",
+          "category": "prompt-injection",
+          "severity": "CRITICAL",
+          "file": "skills__claude-api/shared/managed-agents-api-reference.md",
+          "line": 157,
+          "excerpt": "| `POST`   | `/v1/vaults/{vault_id}/credentials`                               | CreateCredential   | Create a credentia",
+          "note": "Prose instructs the agent to send secrets somewhere."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/managed-agents-api-reference.md",
+          "line": 349,
+          "excerpt": "> `system.message` events (update the system prompt between turns) use the same envelope with `type: \"system.message\"` \u2014",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/managed-agents-onboarding.md",
+          "line": 5,
+          "excerpt": "Claude Managed Agents is a hosted agent: Anthropic runs the agent loop and provisions a sandboxed container per session ",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/managed-agents-multiagent.md",
+          "line": 3,
+          "excerpt": "A coordinator agent can delegate to other agents within one session. All agents **share the container and filesystem**; ",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/managed-agents-overview.md",
+          "line": 3,
+          "excerpt": "Managed Agents provisions a container per session as the agent's workspace. The agent loop runs on Anthropic's orchestra",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "SC-LATEST",
+          "category": "supply-chain",
+          "severity": "HIGH",
+          "file": "skills__claude-api/shared/anthropic-cli.md",
+          "line": 28,
+          "excerpt": "go install github.com/anthropics/anthropic-cli/cmd/ant@latest",
+          "note": "Auto-updating / unpinned execution \u2014 no version you can trust."
+        },
+        {
+          "signal": "PI-OVERRIDE",
+          "category": "prompt-injection",
+          "severity": "HIGH",
+          "file": "skills__claude-api/shared/model-migration.md",
+          "line": 829,
+          "excerpt": "Phrase these as **context, not commands**. State the fact and let Claude act on it; avoid override-style language (\"igno",
+          "note": "Instruction-override language aimed at the agent."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/model-migration.md",
+          "line": 26,
+          "excerpt": "**TL;DR:** Change the model ID string. If you were using `budget_tokens`, switch to `thinking: {type: \"adaptive\"}`. If y",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/agent-design.md",
+          "line": 93,
+          "excerpt": "| Editing the system prompt mid-session invalidates the cache. | Append a `{\"role\": \"system\", ...}` message to `messages",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/shared/managed-agents-memory.md",
+          "line": 75,
+          "excerpt": "Each attached store is mounted in the session container at `/mnt/memory/<store-name>/`. The agent interacts with it usin",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/python/managed-agents/README.md",
+          "line": 66,
+          "excerpt": "### With system prompt and custom tools",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/python/claude-api/README.md",
+          "line": 193,
+          "excerpt": "Cache large context to reduce costs (up to 90% savings). **Caching is a prefix match** \u2014 any byte change anywhere in the",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/typescript/managed-agents/README.md",
+          "line": 72,
+          "excerpt": "### With system prompt and custom tools",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/typescript/claude-api/README.md",
+          "line": 136,
+          "excerpt": "**Caching is a prefix match** \u2014 any byte change anywhere in the prefix invalidates everything after it. For placement pa",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__claude-api/curl/managed-agents.md",
+          "line": 82,
+          "excerpt": "### With system prompt, custom tools, and GitHub repo",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        }
+      ]
+    },
+    {
+      "name": "skills__doc-coauthoring",
+      "risk": "INFO",
+      "files_scanned": 1,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "skills__docx",
+      "risk": "HIGH",
+      "files_scanned": 17,
+      "has_executable": true,
+      "categories": [
+        "code-execution",
+        "credential-reach",
+        "filesystem",
+        "network-egress"
+      ],
+      "matches": [
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__docx/scripts/accept_changes.py",
+          "line": 68,
+          "excerpt": "result = subprocess.run(",
+          "note": "Spawns shell/child processes."
+        },
+        {
+          "signal": "CR-ENV",
+          "category": "credential-reach",
+          "severity": "HIGH",
+          "file": "skills__docx/scripts/office/soffice.py",
+          "line": 25,
+          "excerpt": "env = os.environ.copy()",
+          "note": "Reads environment variables (may reach API keys)."
+        },
+        {
+          "signal": "NE-SOCKET",
+          "category": "network-egress",
+          "severity": "HIGH",
+          "file": "skills__docx/scripts/office/soffice.py",
+          "line": 46,
+          "excerpt": "s = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)",
+          "note": "Raw socket networking."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__docx/scripts/office/soffice.py",
+          "line": 14,
+          "excerpt": "subprocess.run([\"soffice\", ...], env=env)",
+          "note": "Spawns shell/child processes."
+        },
+        {
+          "signal": "FS-DELETE",
+          "category": "filesystem",
+          "severity": "MEDIUM",
+          "file": "skills__docx/scripts/office/soffice.py",
+          "line": 64,
+          "excerpt": "src.unlink()",
+          "note": "Deletes files."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__docx/scripts/office/validators/redlining.py",
+          "line": 138,
+          "excerpt": "result = subprocess.run(",
+          "note": "Spawns shell/child processes."
+        }
+      ]
+    },
+    {
+      "name": "skills__frontend-design",
+      "risk": "INFO",
+      "files_scanned": 2,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "skills__internal-comms",
+      "risk": "INFO",
+      "files_scanned": 6,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "skills__mcp-builder",
+      "risk": "HIGH",
+      "files_scanned": 9,
+      "has_executable": true,
+      "categories": [
+        "credential-reach"
+      ],
+      "matches": [
+        {
+          "signal": "CR-DOTENV",
+          "category": "credential-reach",
+          "severity": "HIGH",
+          "file": "skills__mcp-builder/scripts/evaluation.py",
+          "line": 344,
+          "excerpt": "env_vars = parse_env_vars(args.env) if args.env else None",
+          "note": "Reads a .env file."
+        },
+        {
+          "signal": "CR-DOTENV",
+          "category": "credential-reach",
+          "severity": "HIGH",
+          "file": "skills__mcp-builder/scripts/connections.py",
+          "line": 80,
+          "excerpt": "self.env = env",
+          "note": "Reads a .env file."
+        }
+      ]
+    },
+    {
+      "name": "skills__pdf",
+      "risk": "LOW",
+      "files_scanned": 12,
+      "has_executable": true,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "skills__pptx",
+      "risk": "HIGH",
+      "files_scanned": 20,
+      "has_executable": true,
+      "categories": [
+        "code-execution",
+        "credential-reach",
+        "filesystem",
+        "network-egress"
+      ],
+      "matches": [
+        {
+          "signal": "FS-DELETE",
+          "category": "filesystem",
+          "severity": "MEDIUM",
+          "file": "skills__pptx/scripts/clean.py",
+          "line": 63,
+          "excerpt": "slide_file.unlink()",
+          "note": "Deletes files."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__pptx/scripts/thumbnail.py",
+          "line": 161,
+          "excerpt": "result = subprocess.run(",
+          "note": "Spawns shell/child processes."
+        },
+        {
+          "signal": "CR-ENV",
+          "category": "credential-reach",
+          "severity": "HIGH",
+          "file": "skills__pptx/scripts/office/soffice.py",
+          "line": 25,
+          "excerpt": "env = os.environ.copy()",
+          "note": "Reads environment variables (may reach API keys)."
+        },
+        {
+          "signal": "NE-SOCKET",
+          "category": "network-egress",
+          "severity": "HIGH",
+          "file": "skills__pptx/scripts/office/soffice.py",
+          "line": 46,
+          "excerpt": "s = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)",
+          "note": "Raw socket networking."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__pptx/scripts/office/soffice.py",
+          "line": 14,
+          "excerpt": "subprocess.run([\"soffice\", ...], env=env)",
+          "note": "Spawns shell/child processes."
+        },
+        {
+          "signal": "FS-DELETE",
+          "category": "filesystem",
+          "severity": "MEDIUM",
+          "file": "skills__pptx/scripts/office/soffice.py",
+          "line": 64,
+          "excerpt": "src.unlink()",
+          "note": "Deletes files."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__pptx/scripts/office/validators/redlining.py",
+          "line": 138,
+          "excerpt": "result = subprocess.run(",
+          "note": "Spawns shell/child processes."
+        }
+      ]
+    },
+    {
+      "name": "skills__skill-creator",
+      "risk": "HIGH",
+      "files_scanned": 16,
+      "has_executable": true,
+      "categories": [
+        "code-execution",
+        "credential-reach",
+        "filesystem",
+        "prompt-injection"
+      ],
+      "matches": [
+        {
+          "signal": "PI-SYSTEM",
+          "category": "prompt-injection",
+          "severity": "MEDIUM",
+          "file": "skills__skill-creator/SKILL.md",
+          "line": 390,
+          "excerpt": "Use the model ID from your system prompt (the one powering the current session) so the triggering test matches what the ",
+          "note": "References the system/developer layer \u2014 common injection framing."
+        },
+        {
+          "signal": "CR-ENV",
+          "category": "credential-reach",
+          "severity": "HIGH",
+          "file": "skills__skill-creator/scripts/improve_description.py",
+          "line": 33,
+          "excerpt": "env = {k: v for k, v in os.environ.items() if k != \"CLAUDECODE\"}",
+          "note": "Reads environment variables (may reach API keys)."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__skill-creator/scripts/improve_description.py",
+          "line": 35,
+          "excerpt": "result = subprocess.run(",
+          "note": "Spawns shell/child processes."
+        },
+        {
+          "signal": "CR-ENV",
+          "category": "credential-reach",
+          "severity": "HIGH",
+          "file": "skills__skill-creator/scripts/run_eval.py",
+          "line": 83,
+          "excerpt": "env = {k: v for k, v in os.environ.items() if k != \"CLAUDECODE\"}",
+          "note": "Reads environment variables (may reach API keys)."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__skill-creator/scripts/run_eval.py",
+          "line": 85,
+          "excerpt": "process = subprocess.Popen(",
+          "note": "Spawns shell/child processes."
+        },
+        {
+          "signal": "FS-DELETE",
+          "category": "filesystem",
+          "severity": "MEDIUM",
+          "file": "skills__skill-creator/scripts/run_eval.py",
+          "line": 181,
+          "excerpt": "command_file.unlink()",
+          "note": "Deletes files."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__skill-creator/eval-viewer/generate_review.py",
+          "line": 291,
+          "excerpt": "result = subprocess.run(",
+          "note": "Spawns shell/child processes."
+        }
+      ]
+    },
+    {
+      "name": "skills__slack-gif-creator",
+      "risk": "LOW",
+      "files_scanned": 7,
+      "has_executable": true,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "skills__theme-factory",
+      "risk": "INFO",
+      "files_scanned": 12,
+      "has_executable": false,
+      "categories": [],
+      "matches": []
+    },
+    {
+      "name": "skills__web-artifacts-builder",
+      "risk": "MEDIUM",
+      "files_scanned": 4,
+      "has_executable": true,
+      "categories": [
+        "filesystem"
+      ],
+      "matches": [
+        {
+          "signal": "FS-DELETE",
+          "category": "filesystem",
+          "severity": "MEDIUM",
+          "file": "skills__web-artifacts-builder/scripts/bundle-artifact.sh",
+          "line": 36,
+          "excerpt": "rm -rf dist bundle.html",
+          "note": "Deletes files."
+        }
+      ]
+    },
+    {
+      "name": "skills__webapp-testing",
+      "risk": "HIGH",
+      "files_scanned": 6,
+      "has_executable": true,
+      "categories": [
+        "code-execution"
+      ],
+      "matches": [
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__webapp-testing/scripts/with_server.py",
+          "line": 69,
+          "excerpt": "process = subprocess.Popen(",
+          "note": "Spawns shell/child processes."
+        }
+      ]
+    },
+    {
+      "name": "skills__xlsx",
+      "risk": "HIGH",
+      "files_scanned": 15,
+      "has_executable": true,
+      "categories": [
+        "code-execution",
+        "credential-reach",
+        "filesystem",
+        "network-egress"
+      ],
+      "matches": [
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__xlsx/scripts/recalc.py",
+          "line": 34,
+          "excerpt": "subprocess.run(",
+          "note": "Spawns shell/child processes."
+        },
+        {
+          "signal": "CR-ENV",
+          "category": "credential-reach",
+          "severity": "HIGH",
+          "file": "skills__xlsx/scripts/office/soffice.py",
+          "line": 25,
+          "excerpt": "env = os.environ.copy()",
+          "note": "Reads environment variables (may reach API keys)."
+        },
+        {
+          "signal": "NE-SOCKET",
+          "category": "network-egress",
+          "severity": "HIGH",
+          "file": "skills__xlsx/scripts/office/soffice.py",
+          "line": 46,
+          "excerpt": "s = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)",
+          "note": "Raw socket networking."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__xlsx/scripts/office/soffice.py",
+          "line": 14,
+          "excerpt": "subprocess.run([\"soffice\", ...], env=env)",
+          "note": "Spawns shell/child processes."
+        },
+        {
+          "signal": "FS-DELETE",
+          "category": "filesystem",
+          "severity": "MEDIUM",
+          "file": "skills__xlsx/scripts/office/soffice.py",
+          "line": 64,
+          "excerpt": "src.unlink()",
+          "note": "Deletes files."
+        },
+        {
+          "signal": "CE-SHELL",
+          "category": "code-execution",
+          "severity": "HIGH",
+          "file": "skills__xlsx/scripts/office/validators/redlining.py",
+          "line": 138,
+          "excerpt": "result = subprocess.run(",
+          "note": "Spawns shell/child processes."
+        }
+      ]
+    }
+  ]
+}
